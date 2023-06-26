@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="logo.png" alt="Scrumdinger Logo" width="480" height="480">
+</div>
 # Scrumdinger
 
 Scrumdinger is a SwiftUI-based app that provides live transcription for audio input using AVFoundation and Speech recognition. It utilizes complex grouped views to create an intuitive and interactive user interface.
