@@ -6,8 +6,6 @@ Scrumdinger is a SwiftUI-based app that provides live transcription for audio in
 
 - Live audio transcription: The app uses AVFoundation and Speech recognition to provide real-time transcription of audio input.
 - Complex grouped views: The user interface is built using SwiftUI's powerful tools for creating complex and dynamic layouts with grouped views.
-- Audio playback: Users can play audio files within the app and see the corresponding transcriptions.
-- Easy customization: The app's appearance and behavior can be customized easily to fit different preferences and use cases.
 
 ## Installation
 
