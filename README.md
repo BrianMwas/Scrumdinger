@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Scrumdinger Logo" width="480" height="480">
+  <img src="Scrumdinger.png" alt="Scrumdinger Logo" width="480" height="480">
 </div>
 # Scrumdinger
 
